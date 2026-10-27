@@ -1,0 +1,32 @@
+
+{
+  "schemaVersion": 1,
+  "revisionID": "spotlight-2026-11-02",
+  "activationDate": "2026-11-02T00:00:00Z",
+  "entries": [
+    {
+      "creatorID": 4,
+      "displayName": "Stan Lee",
+      "primaryDiscipline": "Writer / Editor",
+      "issueIDs": [7407, 7411]
+    },
+    {
+      "creatorID": 588,
+      "displayName": "Fiona Staples",
+      "primaryDiscipline": "Artist / Colorist",
+      "issueIDs": [7997, 7998, 7999]
+    },
+    {
+      "creatorID": 110,
+      "displayName": "Gail Simone",
+      "primaryDiscipline": "Writer",
+      "issueIDs": [8424, 8425, 8426]
+    },
+    {
+      "creatorID": 2233,
+      "displayName": "Daniel Warren Johnson",
+      "primaryDiscipline": "Writer / Artist",
+      "issueIDs": [76282, 76283, 76284]
+    }
+  ]
+}
